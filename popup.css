@@ -1,0 +1,114 @@
+body {
+  width: 250px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 15px 0;
+  color: #333;
+}
+
+.speed-buttons {
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  margin: 0 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#current-speed {
+  display: inline-block;
+  width: 50px;
+  font-weight: bold;
+}
+
+.preset-buttons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 15px;
+}
+
+.preset-buttons button {
+  flex: 1;
+  min-width: 50px;
+}
+
+.about-btn {
+  width: 100%;
+  margin-top: 10px;
+  background-color: #2196F3;
+}
+
+.about-btn:hover {
+  background-color: #0b7dda;
+}
+
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover {
+  color: black;
+}
+
+.modal-content h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.modal-content p {
+  margin: 10px 0;
+}
+
+.modal-content a {
+  color: #2196F3;
+  text-decoration: none;
+}
+
+.modal-content a:hover {
+  text-decoration: underline;
+} 
