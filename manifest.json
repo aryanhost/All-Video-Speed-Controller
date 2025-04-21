@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "All Video Speed Controller",
-  "version": "2.1",
-  "description": "Control video playback speed from 0.25x to 4x for all videos on a page and youtube videos",
-  "permissions": ["activeTab"],
+  "name": "All Video Speed",
+  "version": "2.0",
+  "description": "Control video playback speed from 0.25x to 4x",
+  "permissions": ["activeTab", "storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -12,6 +12,7 @@
       "128": "icons/icon128.png"
     }
   },
+  "options_page": "options.html",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],

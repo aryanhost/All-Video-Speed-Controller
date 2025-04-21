@@ -1,4 +1,4 @@
-# Video Speed Controller
+# All Video Speed
 
 A Chrome extension that allows you to control video playback speed on any website with customizable keyboard shortcuts.
 A lightweight Chrome extension to control the playback speed of any video on the web — including YouTube — from 0.25x to 4x, with both preset buttons and manual control.
@@ -44,7 +44,7 @@ A lightweight Chrome extension to control the playback speed of any video on the
 - Works in fullscreen mode
 
 ## Author
-Created by [Morteza Lotfi](https://mortezalotfi.com)
+Created by [Morteza Lotfi](https://mortezaalotfi.com)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
