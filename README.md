@@ -48,19 +48,3 @@ Created by [Morteza Lotfi](https://mortezalotfi.com)
 
 ## License
 This project is licensed under the MIT License.
-
-## 💖 Support This Project
-
-If you find this extension helpful and would like to contribute to its continued development and maintenance, your support is greatly appreciated.
-
-### 💸 Donate via Tether (USDT - TRC20)
-You can make a donation using Tether (USDT) on the TRC20 network:
-
-**Wallet Address:**  
-`YOUR_TRC20_WALLET_ADDRESS`
-
-Your support helps me dedicate more time to improving this project and creating useful tools for the community.  
-Thank you for considering a contribution!
-
-If you wish, feel free to include a short note or message with your donation — I’d love to hear from you.
-
