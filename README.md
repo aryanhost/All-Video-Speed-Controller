@@ -44,7 +44,7 @@ A lightweight Chrome extension to control the playback speed of any video on the
 - Works in fullscreen mode
 
 ## Author
-Created by [Morteza Lotfi](https://mortezaalotfi.com)
+Created by [Morteza Lotfi](https://mortezalotfi.com)
 
 ## License
 This project is licensed under the MIT License. 
